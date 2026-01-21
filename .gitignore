@@ -107,9 +107,6 @@ dist
 # Hbuilderx
 .hbuilderx/
 
-# page
-pages.json
-
 #dist
 .unpackage/
 

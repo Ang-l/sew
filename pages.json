@@ -1,0 +1,53 @@
+
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "美食工坊",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/categories/index",
+      "style": {
+        "navigationBarTitleText": "菜谱分类",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/recipe-list/index",
+      "style": {
+        "navigationBarTitleText": "精选列表",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/recipe-detail/index",
+      "style": {
+        "navigationBarTitleText": "菜谱详情",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/profile/index",
+      "style": {
+        "navigationBarTitleText": "个人中心",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/disclaimer/index",
+      "style": {
+        "navigationBarTitleText": "免责声明",
+        "navigationStyle": "custom"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Culinary Studio",
+    "navigationBarBackgroundColor": "#f5f3f0",
+    "backgroundColor": "#f5f3f0"
+  }
+}
